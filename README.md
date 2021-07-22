@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Syed Husain Ahmad. I have 3 Years of experience of Web Development. I have worked on JavaScript,ReactJS,PHP,Laravel.
+- 👀 I’m interested in coding, solving problems, developing new applications/websites and learning new things. 
+- 🌱 I’m currently learning Typescript and Python.
+- 💞️ I’m looking to collaborate on projects developed in ReactJS or PHP Laravel or in both
+- 📫 You can contact me on my email husainahmad943@gmail.com
